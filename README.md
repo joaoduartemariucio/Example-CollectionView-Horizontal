@@ -1,10 +1,10 @@
 # Example CollectionView Horizontal
 Example of Implementing a Horizontal CollectionView in Swift 5.0 with ViewCode
 
-## Requirements
+## Minimum requirements
 
-- XCode 10
-- Swift 4
+- XCode 8 
+- Swift 3
 
 # Used libraries
 
